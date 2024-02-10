@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sqcc-contactus/static/css/main.066a3a3d.css",
+    "main.js": "/sqcc-contactus/static/js/main.18450654.js",
+    "static/js/592.d2daad70.chunk.js": "/sqcc-contactus/static/js/592.d2daad70.chunk.js",
+    "index.html": "/sqcc-contactus/index.html",
+    "main.066a3a3d.css.map": "/sqcc-contactus/static/css/main.066a3a3d.css.map",
+    "main.18450654.js.map": "/sqcc-contactus/static/js/main.18450654.js.map",
+    "592.d2daad70.chunk.js.map": "/sqcc-contactus/static/js/592.d2daad70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.066a3a3d.css",
+    "static/js/main.18450654.js"
+  ]
+}
